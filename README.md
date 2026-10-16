@@ -5,7 +5,7 @@ Ela demonstra arquitetura de componentes reutilizáveis (Button, TextInput, Time
 
 ## 👀 Visão Geral
 
-![Tela inicial](/public/preview.png)
+![preview](./.github/preview.png)
 
 _A captura de tela mostra o layout principal com a barra lateral (seletor de data, horários, campo de nome do cliente) e a listagem da agenda._
 
